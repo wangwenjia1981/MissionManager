@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user name="武神">
+    <dayMissions>
+      <mission name="一条龙" status="0"/>
+      <mission name="押镖" status="1"/>
+      <mission name="传功" status="0"/>
+      <mission name="师徒" status="0"/>
+      <mission name="帮派活动" status="1"/>
+      <mission name="流派挑战" status="0"/>
+    </dayMissions>
+    <weekMissions>
+      <mission name="天江城" status="0"/>
+    </weekMissions>
+  </user>
+  <user name="武神小号">
+    <dayMissions>
+      <mission name="一条龙" status="1"/>
+    </dayMissions>
+    <weekMissions>
+      <mission name="天江城" status="0"/>
+    </weekMissions>
+  </user>
+</users>

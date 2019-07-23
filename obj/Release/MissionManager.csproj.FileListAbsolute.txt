@@ -1,0 +1,14 @@
+D:\VsWorkspace\MissionManager\bin\Release\MissionManager.exe.config
+D:\VsWorkspace\MissionManager\bin\Release\MissionManager.exe
+D:\VsWorkspace\MissionManager\bin\Release\MissionManager.pdb
+D:\VsWorkspace\MissionManager\obj\Release\MainWindow.g.cs
+D:\VsWorkspace\MissionManager\obj\Release\App.g.cs
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager_MarkupCompile.cache
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager_MarkupCompile.lref
+D:\VsWorkspace\MissionManager\obj\Release\MainWindow.baml
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.g.resources
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.Properties.Resources.resources
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.csproj.GenerateResource.cache
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.csproj.CoreCompileInputs.cache
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.exe
+D:\VsWorkspace\MissionManager\obj\Release\MissionManager.pdb
